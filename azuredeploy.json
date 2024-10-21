@@ -20,6 +20,7 @@
       "type": "string",
       "defaultValue": "10.5-community",
       "allowedValues": [
+         "10.7-community",
         "10.5-community",
         "10.4-community",
         "10.3-community",
